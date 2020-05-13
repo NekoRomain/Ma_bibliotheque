@@ -1,0 +1,2 @@
+rootProject.name='Ma_bibliotheque'
+include ':app'

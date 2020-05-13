@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ma bibliotheque</string>
+    <string name="add_book_button">Ajouter un livre</string>
+    <string name="collection_button">Ma collection</string>
+    <string name="search_book_button">Rechercher</string>
+    <string name="add_string_label">ISBN</string>
+    <string name="ISBN_number_field_hint">Numéro ISBN</string>
+    <string name="book_not_found">Oups, il s\'emblerait que le livre ne soit pas dans la base de donnée !</string>
+    <string name="cancel_button">Annuler</string>
+    <string name="add_button">Ajouter</string>
+    <string name="back_phrase">"Press the back button once again to close the application."</string>
+    <string name="info_add_book">Ajout d\'un livre. \nSi il y a plusieurs éditeurs et/ou auteurs, les séparer par un ;</string>
+    <string name="label_title">Titre: </string>
+    <string name="label_publishers">Editeurs: </string>
+    <string name="label_writters">Auteurs: </string>
+    <string name="label_date">Date de publication: </string>
+    <string name="label_isbn13">ISBN 13: </string>
+    <string name="label_isbn10">ISBN 10: </string>
+    <string name="label_image">Image: </string>
+    <string name="emptyList">Aucun livre dans la bibliothèque.\nAjouter un livre pour le voir ici.</string>
+    <string name="modif">Modifier</string>
+    <string name="delete">Supprimer</string>
+    <string name="confirm">Confirmer</string>
+    <string name="book_already_existe">Vous ne pouvez pas ajouter un livre qui existe déjà dans la bibliothèque.</string>
+    <string name="isbn_requis">"ISBN 10 ou ISBN 13 requis"</string>
+    <string name="scan">Scan</string>
+    <string name="appuie_image">Faites un appuie long sur l\'image pour la supprimer</string>
+    <string name="saveEdit">Voulez-vous vraiment modifier le livre ?</string>
+    <string name="advanced_search">Recherche avancé</string>
+</resources>
