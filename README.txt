@@ -24,6 +24,7 @@ Fonction de l'application:
     (Bugs)
         - Photo se tournant à 90° (ne se produit qu'avec des images personnelles)
         - Scan du code-barre qui ne fonctionne pas quelques fois (sûrement lié au fait que l'on scan tous les types de codes possibles (code-barre, QR code, etc.)).
+        - Il faut relancer l'application après les demandes d'accès pour ne pas avoir d'écran blanc (ex: Scan donne un écran blanc si il n'avait pas l'autorisation pour la caméra)
 
     (Améliorations possibles)
         - Récupération d'une base de données déjà existante pour voir des collections d'autres personnes.
